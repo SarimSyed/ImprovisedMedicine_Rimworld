@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
 <ThingDef ParentName="MedicineBase">
-    <defName>MakeshiftMedicine</defName>
-    <label>makeshift_medicine</label>
+    <defName>MakeshiftMedicine_Medicine</defName>
+    <label>Improvised Medkit</label>
     <description>An improvised medkit made by extracting the medicinal property from healroot and enhancing it. More effective than healroot but not as good as medicine</description>
     <graphicData>
-      <texPath>Things/Medicine/MakeshiftMedicine</texPath>
+      <texPath>Medicine/MakeshiftMedicine</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
       <drawSize>0.85</drawSize>
     </graphicData>
@@ -32,7 +32,7 @@
       </recipeUsers>
       <researchPrerequisite>MedicineProduction</researchPrerequisite>
       <skillRequirements>
-        <Crafting>3</Crafting>
+        <Crafting>2</Crafting>
         <Intellectual>4</Intellectual>
       </skillRequirements>
     </recipeMaker>
