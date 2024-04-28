@@ -20,8 +20,7 @@
       <WorkToMake>700</WorkToMake>
     </statBases>
     <costList>
-      <MedicineHerbal>1</MedicineHerbal>
-      <MealNutrientPaste>1</MealNutrientPaste>
+      <MedicineHerbal>2</MedicineHerbal>
       <!-- <Cloth>3</Cloth> -->
     </costList>
     <recipeMaker>
